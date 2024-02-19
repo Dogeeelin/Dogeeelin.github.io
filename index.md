@@ -30,7 +30,7 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
 - *2022.05 - 2022.09*: Xiaohongshu, Data Analyst Intern, Shanghai
 
 
-## Awards
+## 🏆 Awards
 - **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities
 
 
