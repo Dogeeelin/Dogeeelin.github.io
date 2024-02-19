@@ -30,18 +30,24 @@
 </head>
 
 <body>
+
+  <div class="topnav">
+
+    <a href="{{ site.affiliation_link }}"><img width="190" src="{{ site.affiliation_logo }}"></a>
+
+    <div id="myLinks">
+    {% include navigation.md %}
+    </div>
+
+    <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+      <i class="fa fa-bars"></i>
+    </a>
+    
+  </div>
+
+
   <div class="wrapper">
     <header>
-      <!-- 新增的导航栏代码 -->
-      <nav class="navbar">
-        <ul class="nav-list">
-          <li><a href="#home">Home</a></li>
-          <li><a href="#about">About</a></li>
-          <li><a href="#research">Research</a></li>
-          <li><a href="#publications">Publications</a></li>
-          <li><a href="#contact">Contact</a></li>
-        </ul>
-      </nav>
 
       {% if site.avatar %}
       <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /> </a>
