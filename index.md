@@ -23,8 +23,11 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
 - **Functional Data Analysis:** functional regression, and clustering methods
 - **High-Dimensional Statistics:** matrix-valued regression and clustering, positive semi-definite matrices estimations
 
-## Internship
-- 2022.05 - 2022.09: Xiaohongshu, Shanghai
+## 👩‍💻 Internship
+- *2024.01 - present*: Microsoft STCA, DKI Group, Beijing
+- *2023.09 - 2023.12*: Baidu ERNIE Bot, NLP intern, Beijing
+- *2023.02 - 2023.06*: ByteDance AI lab, NLP intern, Beijing
+- *2022.05 - 2022.09*: Xiaohongshu, Data Analyst Intern, Shanghai
 
 
 ## Awards
