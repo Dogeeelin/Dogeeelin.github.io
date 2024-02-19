@@ -24,7 +24,7 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
 - **High-Dimensional Statistics:** matrix-valued regression and clustering, positive semi-definite matrices estimations
 
 ## Internship
-- 
+- 2022.05-2022.09: Xiaohongshu, Shanghai
 
 
 ## Awards
