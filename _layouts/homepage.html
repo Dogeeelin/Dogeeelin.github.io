@@ -33,6 +33,14 @@
   <div class="wrapper">
     <header>
 
+      <nav>
+        <ul class="navigation">
+          <li><a href="#aboutme">About Me</a></li>
+          <li><a href="#publications">Publications</a></li>
+          <!-- Add more sections as needed -->
+        </ul>
+      </nav>
+
       {% if site.avatar %}
       <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /> </a>
       {% endif %}
@@ -117,7 +125,7 @@
       <br>
 
     </header>
-    <section>
+    <section id="aboutme">
 
       {{ content }}
 
@@ -127,6 +135,10 @@
       <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank"
             rel="noopener">Minimal Light</a> theme. Edited by Hanchao Zhang.</small></p>
       {% endif %}
+
+    </section>
+    <section id="publications">
+      <!-- Add more sections as needed -->
 
     </section>
     <footer>
