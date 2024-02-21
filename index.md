@@ -8,10 +8,8 @@ Currently, I am a second-year master student majoring Computational Linguistics 
 
 
 
+I started my first internship in Xiaohongshu as an Data Analyst intern, where I focused on processing survey information from international users. After that, I entered ByteDance AI-Lab SA (Speech&Audio) as an NLP intern, mainly responsible for training models and fixing bad cases to update chatbots in various apps.  
 
-In the summer of 2022, I started my first internship in Xiaohongshu as an Data Analyst intern, where I focused on processing survey information from international users.
-
-as an Data Analyst intern, 
 
  I used to be an user research intern for the internationalization team (国际化用户研究团队) at Xiaohongshu (小红书). After that, I worked at ByteDance AI-Lab SA (Speech&Audio) as an NLP expert intern. I was responsible for model training and bad case fixing. I also had a half-year internship at Baidu NLP (Beijing) research group, mainly focusing on improving text generation performance of [ERNIE Bot (文心一言)](https://nlp.baidu.com/homepage/index).
 
