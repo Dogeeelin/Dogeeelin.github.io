@@ -4,10 +4,22 @@ layout: homepage
 
 ## About Me
 
-I graduated from the School of International Studies, Sun Yat-Sen University (中山大学国际翻译学院) with a bachelor’s degree. My major was Applied Linguistics and I was supervised by [Prof. Lei Zeng (曾蕾)](https://sti.sysu.edu.cn/zh-hans/teacher/94). Currently, I am a second-year graduate student in the School of Foreign Languages, Peking University (北京大学外国语学院). I major in Computational Linguistics advised by [Prof. Yanmei Gao (苏祺)](https://kvlab.org/member/suqi.html). I am also a student researcher in [Wangxuan Institute of Computer Technology (王选计算机技术研究院)](https://www.icst.pku.edu.cn/) advised by [Prof. Xiaojun Wan (万小军)](https://wanxiaojun.github.io/). I used to be an user research intern for the internationalization team (国际化用户研究团队) at Xiaohongshu (小红书). After that, I worked at ByteDance AI-Lab SA (Speech&Audio) as an NLP expert intern. I was responsible for model training and bad case fixing. I also had a half-year internship at Baidu NLP (Beijing) research group, mainly focusing on improving text generation performance of [ERNIE Bot (文心一言)](https://nlp.baidu.com/homepage/index).
+Currently, I am a second-year master student majoring Computational Linguistics in the [School of Foreign Languages](https://sfl.pku.edu.cn/), [Peking Univeristy](https://www.pku.edu.cn/), advised by Prof. [Yanmei Gao](https://sfl.pku.edu.cn/szdw1/zzjs/wgyyxjyyyyxyjs_20220407164432484604/gym/index.htm). I also applied to be a visting student in [Wangxuan Institute of Computer Technology](https://www.icst.pku.edu.cn/) advised by [Prof. Xiaojun Wan](https://wanxiaojun.github.io/). Prior to this, I received my bachelor’s degree in Applied Linguistics from [Sun Yat-Sen University](https://www.sysu.edu.cn/). 
+
+
+
+
+In the summer of 2022, I started my first internship in Xiaohongshu as an Data Analyst intern, where I focused on processing survey information from international users.
+
+as an Data Analyst intern, 
+
+ I used to be an user research intern for the internationalization team (国际化用户研究团队) at Xiaohongshu (小红书). After that, I worked at ByteDance AI-Lab SA (Speech&Audio) as an NLP expert intern. I was responsible for model training and bad case fixing. I also had a half-year internship at Baidu NLP (Beijing) research group, mainly focusing on improving text generation performance of [ERNIE Bot (文心一言)](https://nlp.baidu.com/homepage/index).
 
 In the summer of 2022, I had the opportunity to work as a Research Data Scientist Intern at <a href="https://about.google" target="_blank"> Google</a>, where I applied my statistical skills to real-world problems. 
 Prior to joining the Ph.D. program, I completed my master's degree in Biostatistics and Data Science from <a href="https://www.cornell.edu" target = "_blank"> Cornell University</a> advised by Prof. <a href= "https://www.idiaz.xyz" target = "_blank"> Iván Díaz</a>, and my bachelor's degree in International Finance from <a href="https://www.cueb.edu.cn" target = "_blank"> Capital University of Economics and Business</a>. 
+
+
+working under the mentorship of Mengyu Zhou. 
 
 <!-- 
 I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_blank"> Open Case Study Project</a> at <a href="https://www.jhsph.edu/" target="_blank"> the Bloomberg School of Public Health </a> of <a href="https://www.jhu.edu/" target="_blank"> the Johns Hopkins University</a>. -->
