@@ -32,10 +32,19 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
 - **High-Dimensional Statistics:** matrix-valued regression and clustering, positive semi-definite matrices estimations
 
 ## 👩‍💻 Internship
-- *2024.01 - present*: Microsoft STCA, DKI Group, Beijing
-- *2023.09 - 2023.12*: Baidu ERNIE Bot, NLP intern, Beijing
-- *2023.02 - 2023.06*: ByteDance AI lab, NLP intern, Beijing
-- *2022.05 - 2022.09*: Xiaohongshu, Data Analyst Intern, Shanghai
+- *2024.01 - now* Microsoft STCA, DKI Group, Beijing
+- *2023.09 - 2023.12* [Baidu ERNIE Bot]((https://nlp.baidu.com/homepage/index)), NLP intern, Beijing
+- *2023.02 - 2023.06* ByteDance AI lab, NLP intern, Beijing
+- *2022.05 - 2022.09* Xiaohongshu, Data Analyst Intern, Shanghai
+
+
+## Education
+
+- *2022.09 - 2025.06* M.S, Peking University, Beijing.
+- *2018.09 - 2022.06* B.S, Sun Yat-Sen University, Guangzhou.
+- *2023.06 - 2023.08* Summer School, Stanford Univeristy, CA.
+
+
 
 
 ## 🏆 Awards
