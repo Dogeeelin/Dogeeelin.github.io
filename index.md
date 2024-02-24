@@ -17,7 +17,7 @@ In the summer of 2022, I had the opportunity to work as a Research Data Scientis
 Prior to joining the Ph.D. program, I completed my master's degree in Biostatistics and Data Science from <a href="https://www.cornell.edu" target = "_blank"> Cornell University</a> advised by Prof. <a href= "https://www.idiaz.xyz" target = "_blank"> Iván Díaz</a>, and my bachelor's degree in International Finance from <a href="https://www.cueb.edu.cn" target = "_blank"> Capital University of Economics and Business</a>. 
 
 
-working under the mentorship of Mengyu Zhou. 
+working under the mentorship of Dr. [Mengyu Zhou](https://www.microsoft.com/en-us/research/people/mezho/). 
 
 <!-- 
 I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_blank"> Open Case Study Project</a> at <a href="https://www.jhsph.edu/" target="_blank"> the Bloomberg School of Public Health </a> of <a href="https://www.jhu.edu/" target="_blank"> the Johns Hopkins University</a>. -->
