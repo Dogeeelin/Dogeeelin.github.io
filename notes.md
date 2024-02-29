@@ -7,6 +7,7 @@
   - `git commit -m "description about the change"`
   - `git push -u origin new`
 - Then the github will automatically update my profile. 
+- If git push fails, try several times. 
 
 
 ### 2. Markdown note

@@ -4,27 +4,14 @@ layout: homepage
 
 ## About Me
 
-Currently, I am a second-year master student majoring Computational Linguistics in the [School of Foreign Languages](https://sfl.pku.edu.cn/), [Peking Univeristy](https://www.pku.edu.cn/), advised by Prof. [Yanmei Gao](https://sfl.pku.edu.cn/szdw1/zzjs/wgyyxjyyyyxyjs_20220407164432484604/gym/index.htm). I also applied to be a visting student in [Wangxuan Institute of Computer Technology](https://www.icst.pku.edu.cn/) advised by [Prof. Xiaojun Wan](https://wanxiaojun.github.io/). Prior to this, I received my bachelor’s degree in Applied Linguistics from [Sun Yat-Sen University](https://www.sysu.edu.cn/). 
+Currently, I am a second-year master student majoring Computational Linguistics in [the Institute of Applied Linguistics](https://sfl.pku.edu.cn/) at [Peking Univeristy](https://www.pku.edu.cn/), advised by [Prof. Yanmei Gao](https://sfl.pku.edu.cn/szdw1/zzjs/wgyyxjyyyyxyjs_20220407164432484604/gym/index.htm). I also applied to be a visting student in [Wangxuan Institute of Computer Technology](https://www.icst.pku.edu.cn/) advised by [Prof. Xiaojun Wan](https://wanxiaojun.github.io/). Prior to my graduate study, I received my bachelor’s degree in Applied Linguistics from [Sun Yat-Sen University](https://www.sysu.edu.cn/). 
 
 
 
-I started my first internship in Xiaohongshu as an Data Analyst intern, where I focused on processing survey information from international users. After that, I entered ByteDance AI-Lab SA (Speech&Audio) as an NLP intern, mainly responsible for training models and fixing bad cases to update chatbots in various apps.  
+I started my first internship in Xiaohongshu as an Data Analyst intern, where I focused on processing survey information from international users. After that, I entered ByteDance AI-Lab SA (Speech&Audio) as an NLP intern, mainly responsible for training models and fixing bad cases to update chatbots in ByteDance's apps. I also worked in Baidu NLP group where I focused on SFT, prompt engineering of ERNIE Bot. Currently, I'm an LLM intern in Microsoft STC Asia DKI group working under the mentorship of [Dr. Mengyu Zhou](https://www.microsoft.com/en-us/research/people/mezho/). 
 
 
-In the summer of 2022, I had the opportunity to work as a Research Data Scientist Intern at <a href="https://about.google" target="_blank"> Google</a>, where I applied my statistical skills to real-world problems. 
-Prior to joining the Ph.D. program, I completed my master's degree in Biostatistics and Data Science from <a href="https://www.cornell.edu" target = "_blank"> Cornell University</a> advised by Prof. <a href= "https://www.idiaz.xyz" target = "_blank"> Iván Díaz</a>, and my bachelor's degree in International Finance from <a href="https://www.cueb.edu.cn" target = "_blank"> Capital University of Economics and Business</a>. 
-
-
-working under the mentorship of Dr. [Mengyu Zhou](https://www.microsoft.com/en-us/research/people/mezho/). 
-
-
-
-<!-- 
-I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_blank"> Open Case Study Project</a> at <a href="https://www.jhsph.edu/" target="_blank"> the Bloomberg School of Public Health </a> of <a href="https://www.jhu.edu/" target="_blank"> the Johns Hopkins University</a>. -->
-
-Outside of academia, I began my journey as a professional swimmer at the age of 5 and went on to achieve several regional and national championships. I'm also passionate about Chinese calligraphy, and my artwork has been exhibited in top galleries and museums including the <a href="http://www.namoc.org/" target="_blank"> National Art Museum of China (Beijing)</a>. In addition, I am also interested in oil painting, and aeromodelling.
-
-My research interests includes:
+## Research Interests
 - ***LLM SFT***
 - ***LLM Compression***
 - ***Data Contamination***
