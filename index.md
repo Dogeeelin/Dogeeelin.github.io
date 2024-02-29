@@ -11,25 +11,30 @@ Currently, I am a second-year master student majoring Computational Linguistics 
 I started my first internship in Xiaohongshu as an Data Analyst intern, where I focused on processing survey information from international users. After that, I entered ByteDance AI-Lab SA (Speech&Audio) as an NLP intern, mainly responsible for training models and fixing bad cases to update chatbots in various apps.  
 
 
- I used to be an user research intern for the internationalization team (国际化用户研究团队) at Xiaohongshu (小红书). After that, I worked at ByteDance AI-Lab SA (Speech&Audio) as an NLP expert intern. I was responsible for model training and bad case fixing. I also had a half-year internship at Baidu NLP (Beijing) research group, mainly focusing on improving text generation performance of [ERNIE Bot (文心一言)](https://nlp.baidu.com/homepage/index).
-
 In the summer of 2022, I had the opportunity to work as a Research Data Scientist Intern at <a href="https://about.google" target="_blank"> Google</a>, where I applied my statistical skills to real-world problems. 
 Prior to joining the Ph.D. program, I completed my master's degree in Biostatistics and Data Science from <a href="https://www.cornell.edu" target = "_blank"> Cornell University</a> advised by Prof. <a href= "https://www.idiaz.xyz" target = "_blank"> Iván Díaz</a>, and my bachelor's degree in International Finance from <a href="https://www.cueb.edu.cn" target = "_blank"> Capital University of Economics and Business</a>. 
 
 
 working under the mentorship of Dr. [Mengyu Zhou](https://www.microsoft.com/en-us/research/people/mezho/). 
 
+
+
 <!-- 
 I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_blank"> Open Case Study Project</a> at <a href="https://www.jhsph.edu/" target="_blank"> the Bloomberg School of Public Health </a> of <a href="https://www.jhu.edu/" target="_blank"> the Johns Hopkins University</a>. -->
 
 Outside of academia, I began my journey as a professional swimmer at the age of 5 and went on to achieve several regional and national championships. I'm also passionate about Chinese calligraphy, and my artwork has been exhibited in top galleries and museums including the <a href="http://www.namoc.org/" target="_blank"> National Art Museum of China (Beijing)</a>. In addition, I am also interested in oil painting, and aeromodelling.
 
+My research interests includes:
+- ***LLM SFT***
+- ***LLM Compression***
+- ***Data Contamination***
+- ***Linguistics***
+
 
 ## 🔥 News!
 - Jan 2023: I started my internship in Microsoft STCA, DKI Group! 
 - **Machine Learning:** fairness AI, penalization and augmentation methods
-- **Functional Data Analysis:** functional regression, and clustering methods
-- **High-Dimensional Statistics:** matrix-valued regression and clustering, positive semi-definite matrices estimations
+
 
 ## 👩‍💻 Internship
 - *2024.01 - present* &nbsp;&nbsp;&nbsp;&nbsp; [Microsoft STCA](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/), DKI Group, Beijing
