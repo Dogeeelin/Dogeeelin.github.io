@@ -18,19 +18,19 @@ I started my first internship in Xiaohongshu <img src="assets/img/xiaohongshu1.s
 - ***Linguistics***
 
 
-## 🔥 News!
+## News
 - Jan 2023: I started my internship in Microsoft STCA, DKI Group! 
 - **Machine Learning:** fairness AI, penalization and augmentation methods
 
 
-## 👩‍💻 Internship
+## Internship
 - *2024.01 - present* &nbsp;&nbsp;&nbsp;&nbsp; [Microsoft STCA](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/), DKI Group, Beijing
 - *2023.09 - 2023.12* &nbsp;&nbsp;&nbsp;[Baidu ERNIE Bot]((https://nlp.baidu.com/homepage/index)), NLP intern, Beijing
 - *2023.02 - 2023.06*  &nbsp;&nbsp;[ByteDance AI lab](https://www.bytedance.com/en/), NLP intern, Beijing
 - *2022.05 - 2022.09*  &nbsp;&nbsp;[Xiaohongshu](√), Data Analyst Intern, Shanghai
 
 
-## 📖 Education
+## Education
 
 - *2022.09 - 2025.06* &nbsp;&nbsp;M.S, Peking University, Beijing.
 - *2018.09 - 2022.06* &nbsp;&nbsp;B.S, Sun Yat-Sen University, Guangzhou.
@@ -39,8 +39,9 @@ I started my first internship in Xiaohongshu <img src="assets/img/xiaohongshu1.s
 
 
 
-## 🏆 Awards
-- **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities
+## Awards
+- *2022.06* &nbsp;&nbsp;Excellent Undergraduate Thesis of SYSU
+- *2022.06* &nbsp;&nbsp;Outstanding Graduate of SYSU
 
 
 <!-- {% include_relative _includes/publications.md %} -->
