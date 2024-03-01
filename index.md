@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-Currently, I am a second-year master student majoring Computational Linguistics in [the Institute of Applied Linguistics](https://sfl.pku.edu.cn/) at [Peking Univeristy](https://www.pku.edu.cn/), advised by [Prof. Yanmei Gao](https://sfl.pku.edu.cn/szdw1/zzjs/wgyyxjyyyyxyjs_20220407164432484604/gym/index.htm). I also applied to be a visting student in [Wangxuan Institute of Computer Technology](https://www.icst.pku.edu.cn/) advised by [Prof. Xiaojun Wan](https://wanxiaojun.github.io/). Prior to my graduate study, I received my bachelor’s degree in Applied Linguistics from [Sun Yat-Sen University](https://www.sysu.edu.cn/). 
+Currently, I am a second-year master student majoring Computational Linguistics in [the Institute of Applied Linguistics](https://sfl.pku.edu.cn/) at [Peking Univeristy](https://www.pku.edu.cn/), advised by [Prof. Yanmei Gao](https://sfl.pku.edu.cn/szdw1/zzjs/wgyyxjyyyyxyjs_20220407164432484604/gym/index.htm). I am also a visting student in [Wangxuan Institute of Computer Technology](https://www.icst.pku.edu.cn/) where I  advised by [Prof. Xiaojun Wan](https://wanxiaojun.github.io/). Prior to my graduate study, I received my bachelor’s degree in Applied Linguistics from [Sun Yat-Sen University](https://www.sysu.edu.cn/). 
 
 
 
-I started my first internship in Xiaohongshu as an Data Analyst intern, where I focused on processing survey information from international users. After that, I entered ByteDance AI-Lab SA (Speech&Audio) as an NLP intern, mainly responsible for training models and fixing bad cases to update chatbots in ByteDance's apps. I also worked in Baidu NLP group where I focused on SFT, prompt engineering of ERNIE Bot. Currently, I'm an LLM intern in Microsoft STC Asia DKI group working under the mentorship of [Dr. Mengyu Zhou](https://www.microsoft.com/en-us/research/people/mezho/). 
+I started my first internship in Xiaohongshu <img src="assets/img/xiaohongshu.svg" style="width:2em;" /> as an Data Analyst intern, where I focused on processing survey information from international users. After that, I entered ByteDance <img src="assets/img/bytedance.svg" style="width:4.5em;" /> AI-Lab SA (Speech&Audio) as an NLP intern, mainly responsible for training models and fixing bad cases to update chatbots in ByteDance's apps. I also worked in Baidu NLP group <img src="assets/img/baidu.png" style="width:3em;" /> where I focused on SFT, prompt engineering of ERNIE Bot. Currently, I'm an LLM intern in Microsoft STC Asia DKI group <img src="assets/img/microsoft.svg" style="width:4em;" /> working under the mentorship of [Dr. Mengyu Zhou](https://www.microsoft.com/en-us/research/people/mezho/). 
 
 
 ## Research Interests
