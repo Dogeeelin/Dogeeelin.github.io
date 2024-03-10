@@ -40,7 +40,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">CONLINE: Complex Code Generation and Refinement with Online Searching and Correctness Testing</div>
     <div class="author">Xinyi He, Jiaru Zou, <strong><u>Yun Lin</u></strong>, Mengyu Zhou, Shi Han, Zejian Yuan, Dongmei Zhang</div>
-    <div class="periodical"><em>preprint, Feb. 2024.</em></div>
+    <div class="periodical"><em>Submitted to ACL'24, Feb. 2024.</em></div>
     <!-- <div class="links">
     <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://arxiv.org/pdf/2306.06534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -65,7 +65,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Automated Similarity Metric Generation for Recommendation</div>
     <div class="author">Liang Qu, <strong><u>Yun Lin</u></strong>, Wei Yuan, Xiaojun Wan, Yuhui Shi, Hongzhi Yin</div>
-    <div class="periodical"><em>preprint, Feb. 2024.</em></div>
+    <div class="periodical"><em>Submitted to KDD'24, Feb. 2024.</em></div>
     <!-- <div class="links">
       <a href="https://americanhealth.jhu.edu/open-case-studies" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
