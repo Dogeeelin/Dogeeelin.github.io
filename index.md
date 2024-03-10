@@ -30,9 +30,9 @@ I'm from a dual background in both linguistics and computer science. So my resea
 
 ## Education
 
-- *2022.09 - 2025.06* &nbsp;&nbsp;M.S, Peking University, Beijing.
-- *2018.09 - 2022.06* &nbsp;&nbsp;B.S, Sun Yat-Sen University, Guangzhou.
-- *2023.06 - 2023.08* &nbsp;&nbsp;Summer School, Stanford Univeristy, CA.
+- *2022.09 - 2025.06* &nbsp;&nbsp;M.S, Peking University, Beijing
+- *2018.09 - 2022.06* &nbsp;&nbsp;B.S, Sun Yat-Sen University, Guangzhou
+- *2023.06 - 2023.08* &nbsp;&nbsp;Exchange Student, Stanford Univeristy, CA
 
 
 
