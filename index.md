@@ -13,7 +13,7 @@ I used to work as an NLP intern at ByteDance AI-Lab and Baidu. Before that, I wa
 I'm from a dual background in both linguistics and computer science. So my research interests include Natural Language Processing, Large Language Model, and Linguistics. In particular, I focus on the following domains:
 - ***Linguistics*** &nbsp;&nbsp; Semantic and pragmatic analysis of conversations/user queries
 - ***LLM Finetuning***  &nbsp;&nbsp;&nbsp;Finetune LLMs for domain-specific applications (e.g. table data, )
-- ***LLM Compression***  &nbsp;&nbsp;Compress finetuned LLMs for faster inference
+- ***LLM Compression***  &nbsp;&nbsp;Model & Prompt Compression for faster inference
 - ***Data Contamination*** &nbsp;&nbsp; Detect training data contamination for fair LLMs comparisons
 
 
