@@ -10,7 +10,7 @@ Currently, I am a second-year master student majoring in Computational Linguisti
 I used to work as an NLP intern at ByteDance AI-Lab and Baidu. Before that, I was an Data Analyst intern in Xiaohongshu. Currently, I'm an research intern in Microsoft STC Asia - DKI group, working under the mentorship of [Dr. Mengyu Zhou](https://www.microsoft.com/en-us/research/people/mezho/).
 
 
-My research interests lie in Natural Language Processing, Large Language Model, and Linguistics. In particular, I focus on:
+I'm from a dual background in both linguistics and computer science. So my research interests include Natural Language Processing, Large Language Model, and Linguistics. In particular, I focus on:
 - ***Linguistics*** &nbsp;&nbsp; Semantic and pragmatic analysis of user queries
 - ***LLM Finetuning***  &nbsp;&nbsp;&nbsp;Finetune LLMs for domain-specific application (e.g. table data, )
 - ***LLM Compression***  &nbsp;&nbsp;Compress finetuned LLMs for faster inference
