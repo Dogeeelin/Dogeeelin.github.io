@@ -11,10 +11,11 @@ I used to work as an NLP intern at ByteDance AI-Lab <img src="assets/img/bytedan
 
 
 ## Research Interests
-- ***LLM SFT***
-- ***LLM Compression***
-- ***Data Contamination***
-- ***Linguistics***
+My research interests lie in Natural Language Processing, Large Language Model, and Linguistics. In particular, I focus on:
+- ***LLM SFT***  Finetune LLMs for domain-specific use (e.g. table data, )
+- ***LLM Compression***  Compress finetuned LLMs for faster inference
+- ***Data Contamination***  Detect training data contamination for fair LLMs comparison and generalization
+- ***Linguistics***  Do discourse analysis to explore and better understand semantic and pragmatic aspects of user queries
 
 
 ## News
