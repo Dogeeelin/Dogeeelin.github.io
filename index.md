@@ -74,4 +74,7 @@ I'm from a dual background in both linguistics and computer science. So my resea
 - <a href="https://github.com/Hanchao-Zhang/LeetQuant-Note/blob/main/Quant%20Research.pdf" target="_blank">*A Quantatitive Research Interview Prep*</a> by Hanchao Zhang
 
 
-
+- Microsoft:
+  - open-source LLMs testing
+  - LLMs finetuning
+  - LLMs compression
