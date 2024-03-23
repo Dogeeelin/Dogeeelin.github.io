@@ -39,7 +39,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2403.13583">CONLINE: Complex Code Generation and Refinement with Online Searching and Correctness Testing</a></div>
-    <div class="author">Xinyi He, Jiaru Zou, <em><strong><u>Yun Lin</u></strong></em>, Mengyu Zhou, Shi Han, Zejian Yuan, Dongmei Zhang</div>
+    <div class="author">Xinyi He, Jiaru Zou, <span style="font-style: italic;"><strong><u>Yun Lin</u></strong></span>, Mengyu Zhou, Shi Han, Zejian Yuan, Dongmei Zhang</div>
     <div class="periodical"><em>Submitted to ACL'24, Feb. 2024.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2403.13583" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -60,7 +60,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Automated Similarity Metric Generation for Recommendation</div>
-    <div class="author">Liang Qu, <em><strong><u>Yun Lin</u></strong></em>, Wei Yuan, Xiaojun Wan, Yuhui Shi, Hongzhi Yin</div>
+    <div class="author">Liang Qu, <span style="font-style: italic;"><strong><u>Yun Lin</u></strong></span>, Wei Yuan, Xiaojun Wan, Yuhui Shi, Hongzhi Yin</div>
     <div class="periodical"><em>Submitted to KDD'24, Feb. 2024.</em></div>
     <!-- <div class="links">
       <a href="https://americanhealth.jhu.edu/open-case-studies" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
