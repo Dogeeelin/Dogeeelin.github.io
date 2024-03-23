@@ -38,7 +38,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">CONLINE: Complex Code Generation and Refinement with Online Searching and Correctness Testing</div>
+    <div class="title"><a href="https://arxiv.org/abs/2403.13583">CONLINE: Complex Code Generation and Refinement with Online Searching and Correctness Testing</a></div>
     <div class="author">Xinyi He, Jiaru Zou, <strong><u>Yun Lin</u></strong>, Mengyu Zhou, Shi Han, Zejian Yuan, Dongmei Zhang</div>
     <div class="periodical"><em>Submitted to ACL'24, Feb. 2024.</em></div>
     <div class="links">
