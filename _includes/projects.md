@@ -59,7 +59,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Automated Similarity Metric Generation for Recommendation</div>
+    <div class="title"><a href="https://arxiv.org/abs/2404.11818">Automated Similarity Metric Generation for Recommendation</a></div>
     <div class="author">Liang Qu, <span style="font-style: italic;"><strong><u>Yun Lin</u></strong></span>, Wei Yuan, Xiaojun Wan, Yuhui Shi, Hongzhi Yin</div>
     <div class="periodical"><em>Submitted to KDD'24, Feb. 2024.</em></div>
     <!-- <div class="links">
