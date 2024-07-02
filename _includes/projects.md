@@ -29,6 +29,49 @@
 </li> -->
 
 
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/tablebench.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2403.13583">TableBench: A Capability-Based Table Benchmark for Large Language Models</a></div>
+    <div class="author"><span style="font-style: italic;"><strong><u>Yun Lin</u></strong></span>, Xinyi He, Mengyu Zhou, Yirui Luo, Junyu Xiong, Yeye He, Haoyu Dong, Shi Han, Dongmei Zhang</div>
+    <div class="periodical"><em>Submitted to EMNLP'24. June, 2024.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2403.13583" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <strong><i style="color:#7b5aa6">arXiv.org</i></strong>
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/PoCoST.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2403.13583">PaCoST: Paired Confidence Significance Testing for Benchmark Contamination Detection in Large Language Models</a></div>
+    <div class="author"><span style="font-style: italic;">Huixuan Zhang, <strong><u>Yun Lin (co-first author)</u></strong></span>, Xiaojun Wan</div>
+    <div class="periodical"><em>Submitted to EMNLP'24. June, 2024.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2403.13583" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <strong><i style="color:#7b5aa6">arXiv.org</i></strong>
+    </div>
+  </div>
+</div>
+</li>
+
+
 <li>
 <div class="pub-row">
 
@@ -60,7 +103,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2404.11818">Automated Similarity Metric Generation for Recommendation</a></div>
-    <div class="author">Liang Qu, <span style="font-style: italic;"><strong><u>Yun Lin</u></strong></span>, Wei Yuan, Xiaojun Wan, Yuhui Shi, Hongzhi Yin</div>
+    <div class="author">Liang Qu*, <span style="font-style: italic;"><strong><u>Yun Lin*</u></strong></span>, Wei Yuan, Xiaojun Wan, Yuhui Shi, Hongzhi Yin</div>
     <div class="periodical"><em>Submitted to KDD'24, Feb. 2024.</em></div>
     <!-- <div class="links">
       <a href="https://americanhealth.jhu.edu/open-case-studies" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
