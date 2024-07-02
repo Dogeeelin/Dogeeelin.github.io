@@ -46,7 +46,7 @@ I'm from a dual background in both linguistics and computer science. So my resea
 
 {% include_relative _includes/projects.md %}
 
-{% include_relative _includes/talks.md %}
+<!-- {% include_relative _includes/talks.md %} -->
 
 
 
