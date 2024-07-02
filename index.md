@@ -46,7 +46,7 @@ I'm from a dual background in both linguistics and computer science. So my resea
 
 {% include_relative _includes/projects.md %}
 
-<!-- {% include_relative _includes/talks.md %} -->
+{% include_relative _includes/talks.md %}
 
 
 
@@ -68,13 +68,3 @@ I'm from a dual background in both linguistics and computer science. So my resea
 
 
 ## Resources
-
-<!-- https://yuhangzhou88.github.io/ESL_Solution/  -->
-- <a href="https://yuhangzhou88.github.io/ESL_Solution/" target="_blank">*A Solution Manual of The Elements of Statistical Learning*</a> by Yuhang Zhou 
-- <a href="https://github.com/Hanchao-Zhang/LeetQuant-Note/blob/main/Quant%20Research.pdf" target="_blank">*A Quantatitive Research Interview Prep*</a> by Hanchao Zhang
-
-
-- Microsoft:
-  - open-source LLMs testing
-  - LLMs finetuning
-  - LLMs compression
