@@ -130,6 +130,7 @@
     <div class="periodical"><em>Submitted to EMNLP'24. June, 2024.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2403.13583" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/Hanchao-Zhang/K-Tensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <strong><i style="color:#7b5aa6">arXiv.org</i></strong>
     </div>
   </div>
