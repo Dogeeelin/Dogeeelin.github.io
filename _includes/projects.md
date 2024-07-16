@@ -125,12 +125,12 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2403.13583">SpreadsheetLLM: Encoding Spreadsheets for Large Language Models</a></div>
+    <div class="title"><a href="https://arxiv.org/pdf/2407.09025">SpreadsheetLLM: Encoding Spreadsheets for Large Language Models</a></div>
     <div class="author">Yuzhang Tian, Jianbo Zhao, Haoyu Dong, Junyu Xiong, Shiyu Xia, Mengyu Zhou, <span style="font-style: italic;"><strong><u>Yun Lin</u></strong></span>, José Cambronero, Yeye He, Shi Han, Dongmei Zhang</div>
     <div class="periodical"><em>Submitted to EMNLP'24. June, 2024.</em></div>
     <div class="links">
-      <a href="https://arxiv.org/abs/2403.13583" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/Hanchao-Zhang/K-Tensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://arxiv.org/pdf/2407.09025" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- <a href="https://github.com/Hanchao-Zhang/K-Tensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
       <strong><i style="color:#7b5aa6">arXiv.org</i></strong>
     </div>
   </div>
