@@ -48,3 +48,5 @@ I'm from a dual background in both linguistics and computer science. So my resea
 
 
 ## Resources
+
+- My personal post: https://my-page-ten-tau.vercel.app/about
