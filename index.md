@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Currently, I am a second-year master's student majoring in Computational Linguistics in the [Institute of Applied Linguistics](https://sfl.pku.edu.cn/) at [Peking Univeristy](https://www.pku.edu.cn/), advised by [Prof. Yanmei Gao](https://sfl.pku.edu.cn/szdw1/zzjs/wgyyxjyyyyxyjs_20220407164432484604/gym/index.htm). I am also a visting student in [Wangxuan Institute of Computer Technology](https://www.icst.pku.edu.cn/) with [Prof. Xiaojun Wan](https://wanxiaojun.github.io/) being my advisor. Prior to my graduate study, I received my bachelor’s degree in Applied Linguistics from [Sun Yat-Sen University](https://www.sysu.edu.cn/). 
+Currently, I am a third-year master's student majoring in Computational Linguistics in the [Institute of Applied Linguistics](https://sfl.pku.edu.cn/) at [Peking Univeristy](https://www.pku.edu.cn/), advised by [Prof. Yanmei Gao](https://sfl.pku.edu.cn/szdw1/zzjs/wgyyxjyyyyxyjs_20220407164432484604/gym/index.htm). I am also a visting student in [Wangxuan Institute of Computer Technology](https://www.icst.pku.edu.cn/) with [Prof. Xiaojun Wan](https://wanxiaojun.github.io/) being my advisor. Prior to my graduate study, I received my bachelor’s degree in Applied Linguistics from [Sun Yat-Sen University](https://www.sysu.edu.cn/). 
 
 
 I used to work as an NLP intern at ByteDance AI-Lab and Baidu. Before that, I was an Data Analyst intern in Xiaohongshu. Currently, I'm an research intern in Microsoft STC Asia - DKI group, where I work under the mentorship of [Dr. Mengyu Zhou](https://www.microsoft.com/en-us/research/people/mezho/) and focus on the research/applications of LLMs + Table.
@@ -18,8 +18,8 @@ I'm from a dual background in both linguistics and computer science. So my resea
 
 
 ## News
+- 🔥*2024.09* &nbsp;&nbsp;Three papers are accepeted by EMNLP!
 - *2024.01* &nbsp;&nbsp;I started my internship in Microsoft STCA, DKI Group! 
-- *2024.09* &nbsp;&nbsp;Three papers are accepeted by EMNLP!
 
 
 ## Internship
