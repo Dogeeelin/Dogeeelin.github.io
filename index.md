@@ -19,6 +19,7 @@ I'm from a dual background in both linguistics and computer science. So my resea
 
 ## News
 - *2024.01* &nbsp;&nbsp;I started my internship in Microsoft STCA, DKI Group! 
+- *2024.09* &nbsp;&nbsp;Three papers are accepeted by EMNLP!
 
 
 ## Internship
@@ -49,4 +50,4 @@ I'm from a dual background in both linguistics and computer science. So my resea
 
 ## Resources
 
-- My personal post: https://my-page-ten-tau.vercel.app/about
+- My personal post: [Skyler's blog page](https://my-page-ten-tau.vercel.app/about)
