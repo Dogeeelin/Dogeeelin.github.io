@@ -56,7 +56,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/PoCoST.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv</abbr>
+    <abbr class="badge">EMNLP</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -77,7 +77,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/method.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv</abbr>
+    <abbr class="badge">EMNLP</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -120,7 +120,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/spreadsheet.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv</abbr>
+    <abbr class="badge">EMNLP</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
