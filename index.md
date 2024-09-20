@@ -18,12 +18,12 @@ I'm from a dual background in both linguistics and computer science. So my resea
 
 
 ## News
-- 🔥*2024.09* &nbsp;&nbsp;Three papers are accepeted by EMNLP!
+- 🔥*2024.09* &nbsp;&nbsp;Three papers are accepted by EMNLP!
 - *2024.01* &nbsp;&nbsp;I started my internship in Microsoft STCA, DKI Group! 
 
 
 ## Internship
-- *2024.01 - present* &nbsp;&nbsp;&nbsp;&nbsp; [Microsoft STCA](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/), DKI Group, Beijing <img src="assets/img/microsoft-logo1.jpeg" style="width:4em;" />
+- *2024.01 - 2024.07* &nbsp;&nbsp;&nbsp;&nbsp; [Microsoft STCA](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/), DKI Group, Beijing <img src="assets/img/microsoft-logo1.jpeg" style="width:4em;" />
 - *2023.09 - 2023.12* &nbsp;&nbsp;&nbsp;[Baidu ERNIE Bot]((https://nlp.baidu.com/homepage/index)), NLP intern, Beijing <img src="assets/img/baidu.png" style="width:3.2em;" />
 - *2023.02 - 2023.06*  &nbsp;&nbsp;[ByteDance AI lab](https://www.bytedance.com/en/), NLP intern, Beijing <img src="assets/img/bytedance.svg" style="width:4.7em;" />
 - *2022.05 - 2022.09*  &nbsp;&nbsp;[Xiaohongshu](√), Data Analyst Intern, Shanghai <img src="assets/img/xiaohongshu.png" style="width:3.4em;" />
