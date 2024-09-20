@@ -62,7 +62,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2406.18326">PaCoST: Paired Confidence Significance Testing for Benchmark Contamination Detection in Large Language Models</a></div>
     <div class="author"><span style="font-style: italic;">Huixuan Zhang, <strong><u>Yun Lin (co-first author)</u></strong></span>, Xiaojun Wan</div>
-    <div class="periodical"><em>Submitted to EMNLP'24. June, 2024.</em></div>
+    <!-- <div class="periodical"><em>Submitted to EMNLP'24. June, 2024.</em></div> -->
     <div class="links">
       <a href="https://arxiv.org/pdf/2406.18326" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <strong><i style="color:#7b5aa6">EMNLP'24</i></strong>
@@ -82,7 +82,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2403.13583">CoCoST: Automatic Complex Code Generation with Online Searching and Correctness Testing</a></div>
-    <div class="author">Xinyi He, Jiaru Zou, <span style="font-style: italic;"><strong><u>Yun Lin</u></strong></span>, Mengyu Zhou, Shi Han, Zejian Yuan, Dongmei Zhang</div>
+    <div class="author">Xinyi He, Jiaru Zou, <span style="font-style: italic;"><strong><u>Yun Lin (co-first author)</u></strong></span>, Mengyu Zhou, Shi Han, Zejian Yuan, Dongmei Zhang</div>
     <!-- <div class="periodical"><em>Submitted to ACL'24, Feb. 2024.</em></div> -->
     <div class="links">
       <a href="https://arxiv.org/abs/2403.13583" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
